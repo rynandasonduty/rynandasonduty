@@ -4,7 +4,7 @@
 
 ### 🌟 Vibe Check: The Lowdown
 
-I'm a **Front-end Developer** who loves tackling complex challenges—from building slick websites to diving deep into Machine Learning and Brain-Computer Interfaces. **I'm currently focused on cutting-edge research in Brain-Computer Interfaces (BCI) and Brain Signal Processing (Pengolahan Sinyal Otak).** I'm crushing it with 2 years of experience!
+I'm a **Front-end Developer** who loves tackling complex challenges from building slick websites to diving deep into Machine Learning and Brain-Computer Interfaces. **I'm currently focused on cutting-edge research in Brain-Computer Interfaces (BCI) and Brain Signal Processing (Pengolahan Sinyal Otak).** I'm crushing it with 2 years of experience!
 
 * 🏢 **My Main Gig:** Surprisingly, I'm the **CEO** at **PT. Coffee Nation Prosperity** (Yeah, I do tech *and* coffee!).
 * 🎓 **The Student Life:** Currently enrolled at **Institut Teknologi Sepuluh Nopember (ITS)**.
@@ -16,7 +16,7 @@ I'm a **Front-end Developer** who loves tackling complex challenges—from build
 
 ### ⚙️ My Gear: Weapons of Choice
 
-Here are the tools and languages I use to build stuff—from the front-end to deep-end embedded systems.
+Here are the tools and languages I use to build stuff from the front-end to deep-end embedded systems.
 
 #### Programming Languages
 
@@ -61,13 +61,13 @@ Check out the stats! I use the "radical" theme for that vibrant look.
 
 | 📈 Main Stats & Contributions | 💥 Current Streak | 💻 Top Languages |
 | :--- | :--- | :--- |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynandasonduty&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rynandasonduty/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rynandasonduty&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynandasonduty&layout=compact&theme=radical&hide_border=true)](https://github.com/rynandasonduty/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynandasonduty&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rynandasonduty/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=rynandasonduty&theme=radical&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynandasonduty&layout=compact&theme=radical&hide_border=true)](https://github.com/rynandasonduty/github-readme-stats) |
 
 ---
 
 ### 🤝 Let's Hang!
 
-Connect with me; always up for a chat about tech, projects, or BCI ideas!
+Connect with me: always up for a chat about tech, projects, or BCI ideas!
 
 | Platform | Link |
 | :--- | :--- |
@@ -75,4 +75,4 @@ Connect with me; always up for a chat about tech, projects, or BCI ideas!
 | **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenamesagastya/) |
 
 ***
-<p align="center">Keep coding and stay awesome! 🚀</p>
+<p align="center">Believe in your flyness, Conquer your shyness! 🚀</p>
