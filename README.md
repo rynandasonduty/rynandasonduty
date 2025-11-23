@@ -61,7 +61,7 @@ Check out the stats! I use the "radical" theme for that vibrant look.
 
 | 📈 Main Stats & Contributions | 💥 Current Streak | 💻 Top Languages |
 | :--- | :--- | :--- |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynandasonduty&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rynandasonduty/github-readme-stats) | [GitHub Streak](https://streak-stats.demolab.com/?user=rynandasonduty&theme=radical&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynandasonduty&layout=compact&theme=radical&hide_border=true)](https://github.com/rynandasonduty/github-readme-stats) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rynandasonduty&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/rynandasonduty/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com/?user=rynandasonduty&theme=radical&hide_border=true)] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rynandasonduty&layout=compact&theme=radical&hide_border=true)](https://github.com/rynandasonduty/github-readme-stats) |
 
 ---
 
@@ -69,10 +69,10 @@ Check out the stats! I use the "radical" theme for that vibrant look.
 
 Connect with me: always up for a chat about tech, projects, or BCI ideas!
 
-| Platform | Tautan |
+| Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andiar-rinanda/) |
 | **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenamesagastya/) |
 
 ***
-<p align="center">Believe in your flyness, Conquer your shyness! 🚀</p>
+<p align="center">Believe in your flyness, Conquer your shyness"! 🚀</p>
